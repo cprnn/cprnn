@@ -2,5 +2,14 @@
 
 <p>
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_cprn_?style=social">
-    <img href="http://instagram.com/_cprn_" alt="Instagram" src="https://img.shields.io/badge/-Instagram-lightgrey?logo=instagram">
+    <a href="http://instagram.com/_cprn_"> <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-lightgrey?logo=instagram"> </a>
+    <a href="https://www.linkedin.com/in/carolinecaprini/"> <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"> </a>
 </p>
+
+<h4>
+I'm a full-stack systems developer, computer technician and analyst and systems developer in training, by the Federal Institute of Education, Science and Technology of Rio Grande do Sul. I'm currently working as an Outsystems and QA Developer for Grendene SA and web developer for Sakuras Esports, using languages as JavaScript, C#, HTML, CSS, Selenium (Java), PHP (Wordpress) and SQL. Always learning more!
+</h4>
+        
+📧 you can reach me on caroline.caprini@hotmail.com
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cprnn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
