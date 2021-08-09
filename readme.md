@@ -12,4 +12,3 @@ I'm a full-stack systems developer, computer technician and analyst and systems 
         
 📧 you can reach me on caroline.caprini@hotmail.com
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cprnn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
