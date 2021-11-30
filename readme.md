@@ -7,7 +7,7 @@
 </p>
 
 <h4>
-I'm a full-stack systems developer, computer technician, and analyst, and systems developer in training, by the Federal Institute of Education, Science, and Technology of Rio Grande do Sul. I'm currently working as an Outsystems and QA Developer for Grendene SA, using languages like JavaScript, C#, HTML, CSS, Selenium (Java), PHP (WordPress), and SQL. Always learning more!
+I'm a full-stack systems developer, computer technician, analyst, and systems developer in training, by the Federal Institute of Education, Science, and Technology of Rio Grande do Sul. I'm currently working as an Outsystems and QA Developer for Grendene SA, using languages like JavaScript, C#, HTML, CSS, Selenium (Java), PHP (WordPress), and SQL. Always learning more!
 </h4>
         
 📧 you can reach me on caroline.caprini@hotmail.com
