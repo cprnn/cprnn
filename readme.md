@@ -5,7 +5,7 @@
 </p>
 
 <h4>
-I'm a systems developer, certified computer technician, analyst and systems developer bachelor by the Federal Institute of Education, Science, and Technology of Rio Grande do Sul. I'm currently working as an Outsystems developer for Grendene SA, using low-code (Outsystems), languages and frameworks like JavaScript, C#, HTML, CSS (Bootstrap & Materialize), Java (with Selenium & Sikuli), PHP, and SQL. Always learning more!
+I'm a systems developer, certified computer technician, analyst and systems developer bachelor by the Federal Institute of Education, Science, and Technology of Rio Grande do Sul. I'm currently working as an systems developer for Grendene SA, using low-code (Outsystems), languages and frameworks like JavaScript, C#, HTML, CSS (Bootstrap & Materialize), Java (with Selenium & Sikuli), PHP, and SQL. Always learning more!
 </h4>
 
 <br>
