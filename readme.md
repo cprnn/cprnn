@@ -2,6 +2,7 @@
 
 <p>
     <a href="https://www.linkedin.com/in/carolinecaprini/"> <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"> </a>
+    <a href="https://www.outsystems.com/profile/nnvfrmimci/"> <img alt="Outsystems" src="https://img.shields.io/badge/Outsystems-Associate%20Reactive%20Developer%20Certified-red"> </a>
 </p>
 
 <h4>
