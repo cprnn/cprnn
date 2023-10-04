@@ -6,7 +6,7 @@
 </p>
 
 <h4>
-I'm a systems developer, certified computer technician, analyst and systems developer bachelor by the Federal Institute of Education, Science, and Technology of Rio Grande do Sul. I'm currently working as an systems developer for Grendene SA, using low-code (Outsystems), languages and frameworks like JavaScript, C#, HTML, CSS (Bootstrap & Materialize), Java (with Selenium & Sikuli), PHP, and SQL. Always learning more!
+I'm a systems developer, certified computer technician, analyst and systems developer bachelor by the Federal Institute of Education, Science, and Technology of Rio Grande do Sul. I'm currently working as a systems developer for CastGroup, using low-code (Outsystems), but I also develop in languages and frameworks like JavaScript, C#, HTML, CSS (Bootstrap & Materialize), PHP, and SQL. Always learning more!
 <br>
 <br>
 Currently learning Flutter!
@@ -23,6 +23,6 @@ Currently learning Flutter!
 </div>
 <br>
 
-📧 you can reach me on caroline.caprini@hotmail.com
+📧 you can reach me at caroline.caprini@hotmail.com
 
 my pfp is an artwork made by SimzArt! Check his work on simzart.tumblr.com 🔮
