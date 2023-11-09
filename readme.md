@@ -4,10 +4,10 @@
 <a href="https://www.outsystems.com/profile/nnvfrmimci/"> <img alt="Outsystems" src="https://img.shields.io/badge/Outsystems-Associate%20Reactive%20Developer%20Certified-red"> </a>
 
 <p>
-I'm a systems developer, certified computer technician, analyst and systems developer bachelor by the Federal Institute of Education, Science, and Technology of Rio Grande do Sul. I'm currently working as a systems developer for CastGroup, using low-code (Outsystems), but I also develop in languages and frameworks like JavaScript, C#, HTML, CSS (Bootstrap & Materialize), PHP, and SQL. Always learning more!
+I'm a systems developer, certified computer technician, analyst and systems developer bachelor by the Federal Institute of Education, Science, and Technology of Rio Grande do Sul, Brazil. I'm currently working as a systems developer, using low-code (Outsystems), but I also develop in languages and frameworks like JavaScript, HTML, CSS (Bootstrap & Materialize), PHP, and SQL. Always learning more!
 <br>
 <br>
-Currently learning Flutter!
+Currently learning Flutter and C#!
 </p>
 
 <br>
