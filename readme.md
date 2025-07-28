@@ -19,4 +19,4 @@ Currently learning Flutter and C#!
 
 📧 you can reach me at caroline.caprini@hotmail.com
 
-my pfp is an artwork made by SimzArt! Check his work on simzart.tumblr.com 🔮
+my pfp is an artwork made by SimzArt! Check his work on <a href="https://www.tumblr.com/simzart">simzart.tumblr.com</a> 🔮
